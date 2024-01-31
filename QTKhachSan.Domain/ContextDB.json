@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "db": "Data Source=PC\\SQLEXPRESS;Persist Security Info=True;Initial Catalog=KhachSanDb;Trust Server Certificate=True;User ID=sa;Password=123"
+  }
+
+}
